@@ -363,7 +363,7 @@ body{
 .hero-content h1 {
     font-size: 35px;
     color: 001F3F;
-    text-shadow: 0px 0px 2px greenyellow;
+    text-shadow: 0px 2px 10px #777;
     margin: 10px 0;
 }
 
