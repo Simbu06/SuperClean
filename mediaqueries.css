@@ -69,7 +69,6 @@
 
     .header_right ul {
         flex-direction: column;
-        align-items: center;
         width: 100%;
     }
 
@@ -79,7 +78,6 @@
     }
 
     .content {
-        flex-direction: row;
         margin: 20px 10px;
         padding: 0 20px;
     }
