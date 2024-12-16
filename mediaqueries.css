@@ -3,6 +3,7 @@
     .top {
         flex-direction: column;
         align-items: center;
+        padding: 10px 20px;
     }
 
     .top_left {
@@ -23,13 +24,12 @@
 
     .burger-menu{
         position: absolute;
-        top: 219px;
+        top: 280px;
         right: 20px;
         z-index: 100;
         display: block;
         background: none;
         border: none;
-        font-size: 24px;
         cursor: pointer;
         margin-top: 10px;
 
@@ -41,25 +41,26 @@
     }
 
     .header {
-        flex-direction: column;
-        justify-content: center;
         height: auto;
-        margin: 0;
+        margin: 10px;
+        padding: 10px;
     }
 
     .header_left .main_logo {
         width: 200px;
         height: auto;
         margin-top: 0;
-        padding: 0;
     }
     
     .header_right{
         width: 100%;
-        position: relative;
+        position: absolute;
+        background-color: rgba(255, 255, 255, 0.9);
+        padding: 20px 0;
+        top: 30%;
+        left: 0;
+        z-index: 99;
         display: none;
-        flex-direction: column;
-        align-items: center;
     }
 
     .header_right.active {
