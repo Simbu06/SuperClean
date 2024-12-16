@@ -1,5 +1,8 @@
 /* Mobile Responsive Styles */
 @media (max-width: 768px) {
+    html, body {
+        overflow-x: hidden;
+    }
     .top {
         flex-direction: column;
         align-items: center;
