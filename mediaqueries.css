@@ -182,3 +182,29 @@
         padding: 0%;
     }
 }
+@media (max-width: 768px){
+    .txt1 {
+        font-size: 28px;
+    }
+    
+    .hero-content h1 {
+        font-size: 26px;
+    }
+    
+    .contact_info {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .contact_info .logo {
+        margin-bottom: 5px;
+    }
+    
+    .top_right .btn {
+        padding: 5px;
+    }
+    
+    .quote-btn {
+        padding: 8px 15px;
+    }
+}
