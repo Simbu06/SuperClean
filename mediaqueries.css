@@ -16,8 +16,8 @@
 
     .burger-menu{
         display: block;
-        background: transparent;
-        border: 0px solid transparent;
+        background: none;
+        border: none;
         font-size: 24px;
         cursor: pointer;
         margin-top: 10px;
