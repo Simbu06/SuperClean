@@ -2,6 +2,10 @@
 @media (max-width: 768px) {
     html, body {
         overflow-x: hidden;
+        background-image: url('asserts/back.png'); /* Ensure the background image is set */
+        background-attachment: absolute;
+        background-size: fixed;
+        background-position: top 3% left 40%;
     }
     .top {
         flex-direction: column;

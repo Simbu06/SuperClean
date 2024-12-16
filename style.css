@@ -3,7 +3,7 @@ body{
     margin: 0;
     padding: 0;
     background-image: url(asserts/back.png);
-    background-attachment: abolute;
+    background-attachment: absolute;
     background-repeat: no-repeat;
     background-size: fixed;
     background-position: top 1px;
