@@ -1,73 +1,70 @@
-# Cleaning Services Frontend
+# Getting Started with Create React App
 
-A simple and responsive frontend webpage for cleaning services. This project is deployed on [Netlify](https://web-task-simbu.netlify.app/) and serves as a clean and user-friendly interface for booking and managing cleaning services.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Table of Contents
+## Available Scripts
 
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
+In the project directory, you can run:
 
-## Overview
+### `npm start`
 
-The **Cleaning Services Frontend** is a lightweight, visually appealing webpage designed to demonstrate the frontend implementation of a cleaning service booking system. This project is ideal for showcasing UI/UX skills and serves as a foundation for building more robust cleaning service applications.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Features
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Fully responsive design.
-- Clean and intuitive user interface.
-- Sections for service descriptions, booking forms, and contact details.
-- Compatible across modern web browsers.
+### `npm test`
 
-## Technologies Used
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- **HTML5**: For the structure of the webpage.
-- **CSS3**: For styling and responsive design.
-- **JavaScript**: For interactivity (if applicable).
+### `npm run build`
 
-## Getting Started
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-To set up and run this project locally, follow these steps:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-1. **Clone the repository:**
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-    ```bash
-    git clone https://github.com/<your-username>/cleaning-services-frontend.git
-    ```
+### `npm run eject`
 
-2. **Navigate to the project directory:**
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-    ```bash
-    cd cleaning-services-frontend
-    ```
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-3. **Open the `index.html` file in a web browser:**
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-    ```bash
-    open index.html
-    ```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Deployment
+## Learn More
 
-This project is deployed on Netlify. You can view the live version here:
-[Cleaning Services Frontend](https://web-task-simbu.netlify.app/)
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To deploy your own version:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-1. Push the code to your GitHub repository.
-2. Connect the repository to Netlify.
-3. Netlify will automatically build and deploy your project.
+### Code Splitting
 
-## Contributing
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Contributions are welcome! If you have suggestions for improving this project or find bugs, please fork the repository and submit a pull request.
+### Analyzing the Bundle Size
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature-name`)
-3. Commit your changes (`git commit -m 'Add your feature'`)
-4. Push to the branch (`git push origin feature/your-feature-name`)
-5. Open a pull request
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
