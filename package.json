@@ -1,6 +1,13 @@
 {
   "name": "superclean-react",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "description": "A modern, responsive cleaning services website built with React",
+  "author": "Simbu06",
+  "homepage": "https://web-task-simbu.netlify.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Simbu06/SuperClean.git"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
